@@ -30,6 +30,7 @@
 #ifndef FCGIO_H
 #define FCGIO_H
 
+#include <stdio.h>
 #include <iostream>
 
 #include "fcgiapp.h"
